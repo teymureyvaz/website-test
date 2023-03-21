@@ -968,3 +968,11 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
     height: 200;
     width: 100;
 }
+
+p {
+    margin-bottom: 15px;
+}
+
+img {
+    margin-bottom: 15px;
+}
